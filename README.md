@@ -1,16 +1,15 @@
-### Hi there 👋
+# ¡Hi :wave: soy Jocelyn Rincón,  Welcome to my world! :pushpin: 
+ 
+##### I'm Full stack developer, I'm in love of the world of the tecnology, I really enjoy every time I have the opprtunity of learning more about it.
 
-<!--
-**JocelynRincon/JocelynRincon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 I’m currently studying on Educamás
+* 🌱 I’m currently learning Python and Django
+* 👯 I’m looking to collaborate on your projects
+* 💬 Ask me about  **React** **JS HTML CSS**
+* :briefcase:	**My personal** [Linkedin](www.linkedin.com/in/jocelyn-rincon-barcelo)
+
+
+

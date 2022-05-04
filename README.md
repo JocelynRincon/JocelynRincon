@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 * 🌱 I’m currently learning Python and Django
 * 👯 I’m looking to collaborate on your projects
 * 💬 Ask me about  **React** **JS HTML CSS**
+* :briefcase: [My Portfolio](https://portafolio-jr-jocelynrincon.vercel.app/)
 * :briefcase:	**My personal** [Linkedin](www.linkedin.com/in/jocelyn-rincon-barcelo)
 
 

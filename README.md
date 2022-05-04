@@ -1,4 +1,4 @@
-# ¡Hi :wave: soy Jocelyn Rincón,  Welcome to my world! :pushpin: 
+# ¡Hi :wave: I'm Jocelyn Rincón,  Welcome to my world! :pushpin: 
  
 ##### I'm Full stack developer, I'm in love of the world of the tecnology, I really enjoy every time I have the opprtunity of learning more about it.
 
